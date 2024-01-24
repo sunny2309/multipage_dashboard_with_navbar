@@ -4,6 +4,6 @@ The repo contains a code of simple multi-page dashboard created using Python lib
 
 Please feel free to explore below video if you want to understand the code of the dashboard.
 
-* https://www.youtube.com/@CoderzColumn
+* [Building Interactive Dash-Plotly Dashboard with Navbar: A Step-by-Step Guide](https://www.youtube.com/watch?v=qtL_foYcRn8&t=1498s)
 
 Feel free to comment if you have any doubts.
